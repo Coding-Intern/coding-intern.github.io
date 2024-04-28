@@ -1,5 +1,6 @@
 * {
- margin: 10px auto; 
+ margin: 10px auto;
+ text-align: center;
 }
 
 body {
@@ -8,4 +9,8 @@ body {
 
 h1, h2, h3, h4, h5, h6, span, p, a {
  color: white;
+}
+
+img {
+ text-align: center;
 }
