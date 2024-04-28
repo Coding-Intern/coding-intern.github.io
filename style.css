@@ -9,10 +9,14 @@ body {
 
 h1, h2, h3, h4, h5, h6, span, p, a {
  color: white;
+ text-shadow: 5px, 5px, 5px, grey;
 }
 
 img {
- width: 500px;
- height: 500px;
+ border-color: white;
+ border-width: 5px;
+ margin: 10px auto;
+ padding: 1px;
+ border-style: dashed;
  justify-content: center;
 }
